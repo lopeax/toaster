@@ -1,4 +1,4 @@
-# toaster
+# Toaster
 A Simple VanillaJS Toast Notification Maker
 
 ## Usage
